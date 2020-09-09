@@ -1,6 +1,10 @@
 # inappflutter
 
-<img src="https://github.com/loydkim/flutter_in_app/blob/master/Sequence-02_1.gif" width="340" height="560">
+<img src="https://github.com/loydkim/flutter_in_app/blob/master/Sequence-02_1.gif" width="320" height="560">
+
+** Please click the Image to know how it works **
+
+[![Youtube](https://img.youtube.com/vi/OnIRKAbOcq4/0.jpg)](https://youtu.be/p3kUPVhVaL4)
 
 * Develop environment.
 
@@ -11,7 +15,7 @@
 - Android Studio: 3.6.2
 - OS Version: MacOS Catalina 10.15.4
 
-#Flutter, #DatingApp, #SwiftUI
+#Flutter, #InAppFlutter, #MakeMoney
 
 ## Getting Started
 

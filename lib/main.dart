@@ -287,7 +287,7 @@ class _MyAppState extends State<MyApp> {
                 PurchaseParam purchaseParam = PurchaseParam(
                     productDetails: productDetails,
                     applicationUserName: null,
-                    sandboxTesting: true);
+                    sandboxTesting: false);
                 if (productDetails.id == _kConsumableId) {
                   _connection.buyConsumable(
                       purchaseParam: purchaseParam,
